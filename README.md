@@ -1,0 +1,2 @@
+# UGUIPrefabAssist
+preset unity
