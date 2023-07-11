@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7798bd541a5426d81981ed164088a7a, type: 3}
+  m_Name: UGUIStyleBase
+  m_EditorClassIdentifier: 
+  PresetList:
+  - {fileID: 2655988077585873504, guid: 410b524dc31ed9f4b812a4ee9f0414df, type: 2}
+  - {fileID: 2655988077585873504, guid: b92b2ea0d128e654490d633156281780, type: 2}
+  - {fileID: 2655988077585873504, guid: a844d45413be4944180826d0f1bb1cc6, type: 2}

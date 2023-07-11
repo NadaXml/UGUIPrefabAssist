@@ -1,0 +1,15 @@
+{
+    "name": "UIPrefabAssistEditor",
+    "references": [
+        "GUID:1a0334191055a284fac1afb12c977231"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
