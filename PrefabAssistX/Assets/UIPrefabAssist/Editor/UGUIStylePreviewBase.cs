@@ -28,7 +28,7 @@ public class UGUIStylePreviewBase : Editor
         
         Target = target as UGUIStyleBase;
 
-        string path = @"Assets/Scripts/ThirdPlugins/UIPrefabAssist/Style/Canvas.prefab";
+        string path = @"Assets/UIPrefabAssist/Style/Canvas.prefab";
         templateGameObject = AssetDatabase.LoadAssetAtPath<GameObject>(path);
         previewRender = new PreviewRenderUtility();
         previewRender.camera.backgroundColor = Color.grey;

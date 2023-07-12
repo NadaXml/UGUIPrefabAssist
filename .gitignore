@@ -5,3 +5,5 @@ PrefabAssistX/PrefabAssistX.sln
 PrefabAssistX/UIPrefabAssist.csproj
 PrefabAssistX/UIPrefabAssistEditor.csproj
 PrefabAssistX/Logs
+PrefabAssistX/obj
+PrefabAssistX/.idea
